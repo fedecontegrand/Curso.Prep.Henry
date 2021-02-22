@@ -1,0 +1,1 @@
+Funciones callback sirven para que podamos llamar a dichas funciones en otro momento. Se hace colocando en el argumento de la funcion que solicitara la callback, la palabra "cb". De esa manera podremos hacer uso de una funcion en otra funcion, la cual la esta llamando.
